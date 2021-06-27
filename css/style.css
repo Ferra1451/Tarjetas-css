@@ -1,0 +1,51 @@
+#tarjetas {
+    display: flex;
+    margin-top: 20%;
+
+}
+
+.descuentos {
+    position: absolute;
+    width: 3000px;
+    height: 40px;
+    background: #1CD1B0;
+    top: 0px;
+    left: 0px;
+
+}
+
+.descuentos1 {
+    position: absolute;
+    width: 3000px;
+    height: 100px;
+    left: 0px;
+    top: 38px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+
+.batman1 {
+    box-shadow: 0px 1px 1px;
+    left: 50px;
+}
+
+#front {
+    position: absolute;
+    width: 3000px;
+    height: 60px;
+    left: 0px;
+    top: 972px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: left;
+
+    color: #FFF9F9;
+
+    background: #00669F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
